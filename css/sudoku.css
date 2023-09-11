@@ -1,5 +1,5 @@
 body{
-	background-color: #eeeeee;
+	background-color: #000000;
 	margin: 0;
 	padding-top: 4%;
 	padding-left: 28%;
@@ -49,7 +49,7 @@ body{
 	margin-top: -20px;
 	font-size: 20px;
 	font-weight: bold;
-	background-color: #d9d9d9;
+	background-color: #8b1ec4;
 	color: black;
 	width: 131px;
 	height: 60px;
@@ -74,7 +74,7 @@ body{
 	margin-left: 420px;
 	font-size: 20px;
 	font-weight: bold;
-	background-color: #d9d9d9;
+	background-color: #8b1ec4;
 	color: black;
 	width: 131px;
 	height: 60px;
@@ -83,7 +83,7 @@ body{
 
 
 .blue{
-	background-color: #00ffff;
+	background-color: #c7e5e5;
 	color: black;
     text-align: center;
     height: 180px;
@@ -94,7 +94,7 @@ body{
 }
 
 .darkblue{
-	background-color: #00d2d2;
+	background-color: #deffff;
 	color: black;
     text-align: center;
     height: 180px;
