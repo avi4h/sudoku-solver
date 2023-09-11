@@ -1,5 +1,5 @@
 ## Link to the solver
-[Link](https://avi4h.github.io/Sudoku-Solver/)
+[Link](https://avi4h.github.io/sudoku-solver/)
 
 ## How to Use
 - **Enter Initial Sudoku State** : Start by entering the initial state of the Sudoku puzzle into the solver.
