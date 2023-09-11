@@ -1,5 +1,3 @@
-# Sudoku Solver
-
 ## Link to the solver
 [Link](https://avi4h.github.io/Sudoku-Solver/)
 
